@@ -1,0 +1,15 @@
+C:\Users\SBB2-Ермилов Артём\YandexDisk-artyomermiloff\GeegBrains\C#\L4_1\Program002\bin\Debug\net6.0\Program002.exe
+C:\Users\SBB2-Ермилов Артём\YandexDisk-artyomermiloff\GeegBrains\C#\L4_1\Program002\bin\Debug\net6.0\Program002.deps.json
+C:\Users\SBB2-Ермилов Артём\YandexDisk-artyomermiloff\GeegBrains\C#\L4_1\Program002\bin\Debug\net6.0\Program002.runtimeconfig.json
+C:\Users\SBB2-Ермилов Артём\YandexDisk-artyomermiloff\GeegBrains\C#\L4_1\Program002\bin\Debug\net6.0\Program002.dll
+C:\Users\SBB2-Ермилов Артём\YandexDisk-artyomermiloff\GeegBrains\C#\L4_1\Program002\bin\Debug\net6.0\Program002.pdb
+C:\Users\SBB2-Ермилов Артём\YandexDisk-artyomermiloff\GeegBrains\C#\L4_1\Program002\obj\Debug\net6.0\Program002.csproj.AssemblyReference.cache
+C:\Users\SBB2-Ермилов Артём\YandexDisk-artyomermiloff\GeegBrains\C#\L4_1\Program002\obj\Debug\net6.0\Program002.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SBB2-Ермилов Артём\YandexDisk-artyomermiloff\GeegBrains\C#\L4_1\Program002\obj\Debug\net6.0\Program002.AssemblyInfoInputs.cache
+C:\Users\SBB2-Ермилов Артём\YandexDisk-artyomermiloff\GeegBrains\C#\L4_1\Program002\obj\Debug\net6.0\Program002.AssemblyInfo.cs
+C:\Users\SBB2-Ермилов Артём\YandexDisk-artyomermiloff\GeegBrains\C#\L4_1\Program002\obj\Debug\net6.0\Program002.csproj.CoreCompileInputs.cache
+C:\Users\SBB2-Ермилов Артём\YandexDisk-artyomermiloff\GeegBrains\C#\L4_1\Program002\obj\Debug\net6.0\Program002.dll
+C:\Users\SBB2-Ермилов Артём\YandexDisk-artyomermiloff\GeegBrains\C#\L4_1\Program002\obj\Debug\net6.0\refint\Program002.dll
+C:\Users\SBB2-Ермилов Артём\YandexDisk-artyomermiloff\GeegBrains\C#\L4_1\Program002\obj\Debug\net6.0\Program002.pdb
+C:\Users\SBB2-Ермилов Артём\YandexDisk-artyomermiloff\GeegBrains\C#\L4_1\Program002\obj\Debug\net6.0\Program002.genruntimeconfig.cache
+C:\Users\SBB2-Ермилов Артём\YandexDisk-artyomermiloff\GeegBrains\C#\L4_1\Program002\obj\Debug\net6.0\ref\Program002.dll
